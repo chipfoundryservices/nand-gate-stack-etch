@@ -34,7 +34,7 @@
 |---------|------|--------|-----------|
 | **5** | [05-reactor-architecture.md](chapters/05-reactor-architecture.md) | ✓ | ICP and CCP source architectures for high-AR etch, dual-frequency designs, pulsed-plasma reactor requirements |
 | **6** | [06-gas-distribution.md](chapters/06-gas-distribution.md) | ✓ | Gas injection geometry, residence time control, Knudsen-regime transport into deep features, byproduct removal |
-| **7** | [07-pressure-power-bias.md](chapters/07-pressure-power-bias.md) | 🚩 | Pressure-power-bias phase space mapping, process windows for channel hole etch, stability regions |
+| **7** | [07-pressure-power-bias.md](chapters/07-pressure-power-bias.md) | ✓ | Pressure-power-bias phase space mapping, process windows for channel hole etch, stability regions |
 | **8** | [08-chamber-materials-passivation.md](chapters/08-chamber-materials-passivation.md) | 🚩 | Chamber wall materials, polymer passivation and conditioning, seasoning effects, chamber-to-chamber matching |
 | **9** | [09-rf-pulsing-systems.md](chapters/09-rf-pulsing-systems.md) | 🚩 | Multi-frequency RF systems, pulsed source/bias power, independent ion energy and flux control |
 
