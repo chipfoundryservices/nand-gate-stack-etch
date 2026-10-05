@@ -72,7 +72,7 @@
 | **Appendix A** | [appendices/thermodynamic-data.md](appendices/thermodynamic-data.md) | ✓ | Thermodynamic and material property data tables (SiO2, Si3N4, polysilicon, fluorocarbon species) |
 | **Appendix B** | [appendices/material-compatibility.md](appendices/material-compatibility.md) | ✓ | Material compatibility matrix for chamber components under fluorocarbon chemistry |
 | **Appendix C** | [appendices/standard-procedures.md](appendices/standard-procedures.md) | ✓ | Standard operating procedures for channel hole, staircase, and slit etch |
-| **Appendix D** | [appendices/correction-tables.md](appendices/correction-tables.md) | 🚩 | ARDE / twist / bow correction lookup tables, aspect-ratio indexed |
+| **Appendix D** | [appendices/correction-tables.md](appendices/correction-tables.md) | ✓ | ARDE / twist / bow correction lookup tables, aspect-ratio indexed |
 | **Appendix E** | [appendices/thermal-charging-calculations.md](appendices/thermal-charging-calculations.md) | 🚩 | Thermal and differential charging calculations with worked examples |
 | **Appendix F** | [appendices/endpoint-detection.md](appendices/endpoint-detection.md) | 🚩 | Endpoint detection calibration for multi-layer stack etch |
 
