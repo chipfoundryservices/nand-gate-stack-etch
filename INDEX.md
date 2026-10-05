@@ -60,7 +60,7 @@
 
 | Chapter | File | Status | Key Topics |
 |---------|------|--------|-----------|
-| **15** | [15-cluster-integration-yield.md](chapters/15-cluster-integration-yield.md) | 🚩 | Cluster tool architecture, metrology feedback loops, run-to-run control, yield management at 128+ layers |
+| **15** | [15-cluster-integration-yield.md](chapters/15-cluster-integration-yield.md) | ✓ | Cluster tool architecture, metrology feedback loops, run-to-run control, yield management at 128+ layers |
 
 ---
 
