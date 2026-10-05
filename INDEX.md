@@ -48,7 +48,7 @@
 |---------|------|--------|-----------|
 | **10** | [10-arde-extreme-ar.md](chapters/10-arde-extreme-ar.md) | ✓ | ARDE at 50:1-100:1+ aspect ratio, transport-limited vs. reaction-limited regimes, Knudsen transport models |
 | **11** | [11-ion-transport-sidewall.md](chapters/11-ion-transport-sidewall.md) | ✓ | Ion trajectory evolution with depth, sidewall passivation balance, bowing/twisting/necking mechanisms, charging effects |
-| **12** | [12-selectivity-engineering.md](chapters/12-selectivity-engineering.md) | 🚩 | Oxide/nitride/polysilicon selectivity in alternating stacks, averaged selectivity targets, stop-layer behavior |
+| **12** | [12-selectivity-engineering.md](chapters/12-selectivity-engineering.md) | ✓ | Oxide/nitride/polysilicon selectivity in alternating stacks, averaged selectivity targets, stop-layer behavior |
 | **13** | [13-staircase-contact-etch.md](chapters/13-staircase-contact-etch.md) | 🚩 | Staircase formation via trim-etch cycling, step height control, multi-step CD budget |
 | **14** | [14-word-line-replacement.md](chapters/14-word-line-replacement.md) | 🚩 | Slit etch, sacrificial nitride removal, gate-last metal fill interface, mechanical stability during replacement |
 
