@@ -68,7 +68,7 @@
 
 | Appendix | File | Status | Content |
 |----------|------|--------|---------|
-| **Glossary** | [appendices/glossary.md](appendices/glossary.md) | 🚩 | 3D NAND etch-specific terminology and acronyms |
+| **Glossary** | [appendices/glossary.md](appendices/glossary.md) | ✓ | 3D NAND etch-specific terminology and acronyms |
 | **Appendix A** | [appendices/thermodynamic-data.md](appendices/thermodynamic-data.md) | 🚩 | Thermodynamic and material property data tables (SiO2, Si3N4, polysilicon, fluorocarbon species) |
 | **Appendix B** | [appendices/material-compatibility.md](appendices/material-compatibility.md) | 🚩 | Material compatibility matrix for chamber components under fluorocarbon chemistry |
 | **Appendix C** | [appendices/standard-procedures.md](appendices/standard-procedures.md) | 🚩 | Standard operating procedures for channel hole, staircase, and slit etch |
