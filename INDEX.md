@@ -19,7 +19,7 @@
 
 | Chapter | File | Status | Key Topics |
 |---------|------|--------|-----------|
-| **1** | [01-3d-nand-architecture.md](chapters/01-3d-nand-architecture.md) | 🚩 | 3D NAND device architecture, why vertical scaling replaced planar scaling, charge-trap vs. floating-gate cells, string/block/plane organization, industrial context and roadmap |
+| **1** | [01-3d-nand-architecture.md](chapters/01-3d-nand-architecture.md) | ✓ | 3D NAND device architecture, why vertical scaling replaced planar scaling, charge-trap vs. floating-gate cells, string/block/plane organization, industrial context and roadmap |
 | **2** | [02-charge-trap-stack-materials.md](chapters/02-charge-trap-stack-materials.md) | 🚩 | ONO (oxide-nitride-oxide) charge-trap stack, OPOP (oxide-polysilicon) replacement-gate stack, film deposition properties, stress and composition effects on etch |
 | **3** | [03-fluorocarbon-chemistry.md](chapters/03-fluorocarbon-chemistry.md) | 🚩 | CF4/C4F8/C4F6/CHF3 plasma chemistry, SF6 and O2 co-reactants, polymer passivation formation, byproduct volatility |
 | **4** | [04-plasma-dielectric-reactions.md](chapters/04-plasma-dielectric-reactions.md) | 🚩 | Ion-assisted dielectric etch mechanisms, fluorocarbon polymer layer dynamics, surface reaction pathways unique to ultra-high-AR features |
