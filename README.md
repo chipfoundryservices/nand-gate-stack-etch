@@ -148,9 +148,9 @@ At production volume, every wafer's channel hole profile is measured and fed bac
 
 ## Development Status
 
-**Status:** In Development (chapters authored sequentially; see INDEX.md for current status)
+**Status:** Complete — all 15 chapters, front matter, glossary, and 6 appendices published. See INDEX.md for the full chapter and appendix index.
 
-**Version:** 0.1 (Manuscript Development Phase)
+**Version:** 1.0 (Manuscript Complete)
 
 ---
 
